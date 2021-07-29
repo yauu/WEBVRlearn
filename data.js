@@ -75,7 +75,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "VR網站測試",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

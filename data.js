@@ -37,7 +37,7 @@ var APP_DATA = {
           "yaw": -0.0009385455908645923,
           "pitch": -0.28960054500635657,
           "title": "標題12313",
-          "text": "內文中文english"
+          "text": "內文中文english內文中文english內文中文english內文中文english"
         },
         {
           "yaw": 1.7336204087467184,

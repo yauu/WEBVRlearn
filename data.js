@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 1920,
       "initialViewParameters": {
-        "pitch": 0,
-        "yaw": 0,
-        "fov": 1.5707963267948966
+        "yaw": -1.006396746095728,
+        "pitch": 0.21948415313758218,
+        "fov": 1.2947960297155912
       },
       "linkHotspots": [
         {
@@ -36,9 +36,9 @@ var APP_DATA = {
           "target": "2-a3"
         },
         {
-          "yaw": 1.1891271193246506,
-          "pitch": 0.29368084668841377,
-          "rotation": 0,
+          "yaw": -0.5695951043064973,
+          "pitch": 0.1437975725998939,
+          "rotation": 3.141592653589793,
           "target": "1-a2"
         }
       ],
@@ -88,16 +88,16 @@ var APP_DATA = {
       ],
       "infoHotspots": [
         {
-          "yaw": -1.4149877791780927,
-          "pitch": -0.09027984215095763,
-          "title": "Title",
-          "text": "Text"
+          "yaw": -1.3939022869618434,
+          "pitch": 0.5625901030731697,
+          "title": "陳三火<br>關公",
+          "text": "<span style=\"font-size:12.0pt;mso-bidi-font-size:11.0pt;\nfont-family:標楷體;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:\nminor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:\nAR-SA\">此作品為陳三火藝師所創「以槓代剪」技法而成，強調唯有隨著敲打出來的瓷片形狀去拼貼，呈現的人物跟動物才會栩栩如生、具有「靈氣」。</span>"
         },
         {
           "yaw": -0.7682148571186502,
           "pitch": 0.45797795118115836,
-          "title": "Title",
-          "text": "Text"
+          "title": "陳啟村<br>順天神將",
+          "text": "<span style=\"font-size:12.0pt;mso-bidi-font-size:11.0pt;\nfont-family:標楷體;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:\nminor-bidi;mso-ansi-language:EN-US;mso-fareast-language:ZH-TW;mso-bidi-language:\nAR-SA\">此為陳啟村藝師木雕翻銅作品，以高元帥、趙元帥、七爺、八爺、板杯爺、差役等八件展現八位神將不同造形組件，展現天地神祇之威儀。</span>"
         }
       ]
     },
@@ -579,7 +579,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "測試用標題",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
